@@ -20,6 +20,6 @@ public class QuanLiHocSinh {
             hoso.add(hoSoHocSinh);
         }
         System.out.println(" thông tin học sinh");
-
+        System.out.println(hoso);
     }
 }
