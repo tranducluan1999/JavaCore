@@ -1,3 +1,4 @@
+/*
 package storemanagement;
 
 import sun.security.krb5.SCDynamicStoreConfig;
@@ -77,3 +78,4 @@ public class ParttimeEmployee extends Employee{
         System.out.println(" Nhập lương "  + baseSalary);
     }
 }
+*/

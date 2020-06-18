@@ -1,3 +1,4 @@
+/*
 package storemanagement;
 
 import java.util.Scanner;
@@ -57,7 +58,7 @@ public class FulltimeEmployee extends Employee{
     public void setDailySalary(long dailySalary) {
         this.dailySalary = dailySalary;
     }
-    @Override
+   @Override
     public void nhap()
     {
         Scanner sc = new Scanner(System.in);
@@ -81,3 +82,4 @@ public class FulltimeEmployee extends Employee{
 
 
 }
+*/
